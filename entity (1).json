@@ -1,0 +1,36 @@
+{
+  "DEFECT": [
+    "longitudinal surface crack", "longitudinal crack", "transverse corner crack", "transverse crack",
+    "corner crack", "star crack", "spider crack", "edge crack", "subsurface crack", "network crack", "crazing crack"
+  ],
+  "PARAMETER": [
+    "casting speed", "superheat", "mold heat flux", "heat flux ratio", "mold taper", 
+    "secondary cooling intensity", "specific water volume", "mold oscillation frequency", 
+    "negative strip time", "mold level fluctuation", "viscosity", "basicity", 
+    "soft cooling", "cooling rate"
+  ],
+  "MATERIAL": [
+    "peritectic steel", "microalloyed steel", "low carbon steel", "high-strength low-alloy steel", "HSLA", 
+    "Carbon", "Sulfur", "Phosphorus", "Aluminum", "Nb", "Vanadium", "Ti", "Cu", "Sn", "Nitrogen", "Boron",
+    "C content", "S content", "N content", "Cu equivalent"
+  ],
+  "MECHANISM": [
+    "brittle temperature range", "TBTR", "hot shortness", "phase transformation", 
+    "delta to gamma transformation", "austenite to ferrite transformation", 
+    "thermal stress", "tensile stress", "bending stress", "straightening stress",
+    "dynamic recrystallization", "precipitation hardening", "grain boundary embrittlement"
+  ],
+  "EQUIPMENT": [
+    "mold", "funnel mold", "foot roll", "straightening zone", "bending zone", 
+    "secondary cooling zone", "SCZ", "mold powder", "mold flux", "submerged entry nozzle", "SEN"
+  ],
+  "MORPHOLOGY": [
+    "oscillation marks", "deep oscillation marks", "V-notches", "oxidized iron layer", 
+    "de-carburized areas", "hot spot", "meniscus region", "slag line"
+  ],
+  "MICROSTRUCTURE": [
+    "austenite grain boundary", "proeutectoid ferrite film", "ferrite network", 
+    "Nb(C,N)", "AlN", "TiN", "VN", "MnS", "carbonitride precipitates", 
+    "coarse grain", "copper-enriched phase"
+  ]
+}
